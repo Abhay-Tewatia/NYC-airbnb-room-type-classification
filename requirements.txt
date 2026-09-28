@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+plotly
+scikit-learn
+jupyter
+notebook
+ipykernel
+
+# git commit -m "Initial commit: NYC Airbnb room type classification"
